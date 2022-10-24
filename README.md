@@ -1,4 +1,4 @@
-# **Curse_JavaScript_5**
+# **Curse_JavaScript_3**
 
 ##  Website written with HTML, CSS, JavaScript
 ___
